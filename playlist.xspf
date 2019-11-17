@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/">
+  <trackList>
+    <track>
+      <title>MTV</title>
+      <location>http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8</location>
+    </track>
+    <track>
+      <title>NTV</title>
+      <location>https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/index_1500_av-p.m3u8</location>
+    </track>
+    <track>
+      <title>Sky Sport News HD</title>
+      <location>https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8</location>
+    </track>
+    <track>
+      <title>Welt</title>
+      <location>https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8</location>
+    </track>
+    <track>
+      <title>3sat</title>
+      <location>https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/high/master.m3u8</location>
+    </track>
+    <track>
+      <title>Das Erste HD</title>
+      <location>https://mcdn.daserste.de/daserste/de/master.m3u8</location>
+    </track>
+    <track>
+      <title>ARD alpha</title>
+      <location>https://livestreams.br.de/i/bralpha_germany@119899/master.m3u8</location>
+    </track>
+    <track>
+      <title>ARD one</title>
+      <location>https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8</location>
+    </track>
+    <track>
+      <title>tagesschau24</title>
+      <location>https://tagesschau-lh.akamaihd.net/i/tagesschau_3@66339/master.m3u8</location>
+    </track>
+    <track>
+      <title>Arte DE</title>
+      <location>https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8</location>
+    </track>
+    <track>
+      <title>Arte FR</title>
+      <location>https://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8</location>
+    </track>
+    <track>
+      <title>KiKa</title>
+      <location>https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8</location>
+    </track>
+    <track>
+      <title>Phoenix</title>
+      <location>https://zdfhls19-i.akamaihd.net/hls/live/744752/de/high/master.m3u8</location>
+    </track>
+    <track>
+      <title>ZDF</title>
+      <location>https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8</location>
+    </track>
+    <track>
+      <title>ZDFinfo</title>
+      <location>https://zdfhls17-i.akamaihd.net/hls/live/744750/de/high/master.m3u8</location>
+    </track>
+    <track>
+      <title>ZDFneo</title>
+      <location>https://zdf-hls-02.akamaized.net/hls/live/2002461/de/high/master.m3u8</location>
+    </track>
+    <track>
+      <title>BR nord</title>
+      <location>https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8</location>
+    </track>
+    <track>
+      <title>BR sued</title>
+      <location>https://mcdn.br.de/bfs_sued/de/master.m3u8</location>
+    </track>
+    <track>
+      <title>HR</title>
+      <location>https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8</location>
+    </track>
+    <track>
+      <title>MDR</title>
+      <location>http://c22033-l-iphone.z.core.cdn.streamfarm.net/000mdriphonelive/iphone/smil:stream_live.smil/playlist.m3u8</location>
+    </track>
+    <track>
+      <title>MDR Sachsen-Anhalt</title>
+      <location>https://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/master.m3u8</location>
+    </track>
+    <track>
+      <title>MDR Sachsen</title>
+      <location>https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8</location>
+    </track>
+    <track>
+      <title>MDR Thueringen</title>
+      <location>https://mdrthuhls-lh.akamaihd.net/i/livetvmdrthueringen_de@514027/master.m3u8</location>
+    </track>
+    <track>
+      <title>MDR Event</title>
+      <location>https://mdrevent3hls-lh.akamaihd.net/i/livetvmdrevent3_de@513994/master.m3u8</location>
+    </track>
+    <track>
+      <title>NDR Hamburg</title>
+      <location>https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8</location>
+    </track>
+    <track>
+      <title>NDR Mecklenburg-Vorpommern</title>
+      <location>https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8</location>
+    </track>
+    <track>
+      <title>NDR Niedersachsen</title>
+      <location>https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8</location>
+    </track>
+    <track>
+      <title>RBB Berlin</title>
+      <location>http://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8</location>
+    </track>
+    <track>
+      <title>RBB Brandenburg</title>
+      <location>http://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8</location>
+    </track>
+    <track>
+      <title>SR</title>
+      <location>http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8</location>
+    </track>
+    <track>
+      <title>SWR Baden-Würthemberg</title>
+      <location>https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8</location>
+    </track>
+    <track>
+      <title>SWR Rheinland-Pfalz</title>
+      <location>https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master.m3u8</location>
+    </track>
+    <track>
+      <title>WDR</title>
+      <location>https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8</location>
+    </track>
+  </trackList>
+</playlist>
